@@ -9,6 +9,7 @@ function App() {
         
          <h1>My name is sajjan paudel</h1> 
          <h2> cosmos college</h2>     
+         <h2>I live in satdobato</h2>      
         <a
           className="App-link"
           href="https://reactjs.org"
